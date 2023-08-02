@@ -1,4 +1,4 @@
-# Projeto de Analise de Cesta de Compras com MBA(MARKET BASIC ANLYTICS)
+# Projeto de Analise de Cesta de Compras com MBA(MARKET BASIC ANALYTICS)
 - Uma empresa de varejo deseja aplicar a técnica de MBA(MARKET BASIC ANLYTICS) em um conjunto de dados de milhões de transações
 - Nosso objetivo deste projeto é identificar associação entre produtos de uma cesta de
 compras. Quem compra o Produto A, também compra o Produto B? Qual a força dessa relação,
